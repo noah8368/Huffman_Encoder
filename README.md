@@ -51,6 +51,7 @@ gradually approach a size of ~57% that of the original text files.
 Below is a table summarizing the results of running the software on the files provided in the `examples` folder:
 
 | File Name | Original Size | Compressed Size | Compressed File to Original File Size Ratio |
+| --- | --- | --- | --- |
 | Sam.txt | 13B | 23B | 176.92% |
 | asyoulik.txt | 122KB | 74KB | 60.66% |
 | lcet10.txt | 417KB | 245KB | 58.75% |
