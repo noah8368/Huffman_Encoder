@@ -1,0 +1,14 @@
+# Xcode Project Files
+huffman_comp
+
+# Test bash script ran on personal computer
+test.sh
+
+# Executable File for program
+huffman_encoder
+
+# All object files
+*.o
+
+# Files added by Mac OS
+.DS_Store
